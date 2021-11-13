@@ -1,0 +1,13 @@
+{
+  "name": "Zengine Dev CD Workflow",
+  "description": "Zengine Dev CD workflow template.",
+  "iconName": "example-icon",
+  "categories": [
+    "Go"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
